@@ -4,7 +4,7 @@ The goal of this project is to create a Power BI Dashboard that provides valuabl
 ## Requirements
 To run a Power BI report, you need to ensure that the following Requirements are met:
 1. Power BI Desktop
-1. Access to the data sources
+1. Access to the [data sources](https://github.com/VyomSrivastva/Power_BI_Project/blob/main/Raw_Data.xlsb)
 1. Permissions to access specific datasets or reports.
 
 ## Installation
