@@ -10,7 +10,7 @@ To run a Power BI report, you need to ensure that the following Requirements are
 ## Installation
 Provide instructions for setting up the project:
 1. Clone or download this repository.
-1. Open the Power_bi_project(Road_Accident_Analysis).pbix file using Power BI Desktop.
+1. Open the [Power_bi_project(Road_Accident_Analysis).pbix](https://github.com/VyomSrivastva/Power_BI_Project/blob/main/Power_bi_project(Road_Accident_Analysis).pbix) file using Power BI Desktop.
 
 ## Steps in Project
 + Requirement Gathering
